@@ -4,13 +4,27 @@
 }
 
 body {
-    background-color: rgb(157, 116, 196);
+    background-color: rgba(166, 162, 219, 0.849);
 }
 
 main{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.466);
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(55, 12, 211);
+    ;
+}
+h2 {
+    font-size: 1.5em;
+    color: red;
+}
+
+img.lado {
+    float: right;
 }
